@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\maria\OneDrive\Desktop\CV - Homework1 - هراير ديربيدروسيان - ماريان ديب\env"
+VIRTUAL_ENV="C:\Users\maria\OneDrive\Desktop\OpenCV-HW1\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
